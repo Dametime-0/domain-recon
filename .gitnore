@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+# 结果文件
+*.txt
+*.json
+*.csv
+# 系统文件
+.DS_Store
+*.swp
+.idea/
+.vscode/
+# 日志文件
+*.log

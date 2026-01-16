@@ -1,0 +1,17 @@
+www
+blog
+admin
+api
+test
+mail
+ftp
+cdn
+shop
+pay
+m
+dev
+stage
+prod
+static
+img
+video
