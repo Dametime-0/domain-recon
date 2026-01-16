@@ -69,7 +69,7 @@ Q2: 扫描时提示 SSL 警告？
 A2: 脚本已内置关闭 SSL 证书验证警告的逻辑，该警告不影响使用，无需处理。
 
 ### 📸 效果截图
-![脚本运行效果](https://github.com/你的GitHub用户名/domain-recon/raw/main/screenshot.png)
+![脚本运行效果](https://github.com/Dametime-0/domain-recon/raw/main/screenshot.png)
 
 ### ⚠️ 免责声明
 本工具仅用于学习和合法的安全测试，禁止用于未经授权的扫描。使用本工具造成的一切后果，由使用者自行承担。
